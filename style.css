@@ -1,0 +1,21 @@
+:root {
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0 10px;
+    margin: unset;
+    min-height: 100vh;
+}
+
+main {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
